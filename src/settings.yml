@@ -1,0 +1,8 @@
+version: 1.0
+environment: dev
+
+apps:
+  ab1_offer_app:
+    name: 'ab1-offer-app'
+  ab1_simulation_app:
+    name: 'ab1-simulation-app'

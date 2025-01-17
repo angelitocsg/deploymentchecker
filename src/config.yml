@@ -1,9 +1,0 @@
-version: 1.0
-
-logging:
-  prefix: dev
-
-apps:
-  kf6:
-    simulation-component:
-      url: http://localhost/api
